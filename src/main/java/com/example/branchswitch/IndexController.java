@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RestController;
 public class IndexController {
 
     public String index(){
-        return "8";
+        return "7";
     }
 }
